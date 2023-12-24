@@ -26,7 +26,7 @@ Clone the repository to your local environment to explore and execute the provid
 
 bash
 Copy code
-git clone https://github.com/your_username/pandas-joins.git
+SSH/HTML
 cd pandas-joins
 You'll need Python and Jupyter Notebook installed. Use a virtual environment and install the required dependencies:
 
